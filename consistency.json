@@ -6,5 +6,6 @@
   },
   "rules": {
     ".gitignore": {}
+    "update-example.txt": {}
   }
 }
