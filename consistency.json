@@ -1,0 +1,10 @@
+{
+  "base": {
+    "platform": "github",
+    "owner": "snowcoders",
+    "name": "consistency-example-producer"
+  },
+  "rules": {
+    ".gitignore": {}
+  }
+}
