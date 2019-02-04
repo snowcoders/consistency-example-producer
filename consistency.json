@@ -5,7 +5,7 @@
     "name": "consistency-example-producer"
   },
   "rules": {
-    ".gitignore": {}
+    ".gitignore": {},
     "update-example.txt": {}
   }
 }
